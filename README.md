@@ -1,5 +1,8 @@
 # m32895-public-tb2-2026
 ### Table of contents
+
+*Corresponding Jupyter Noteboos are collected in [folder](https://github.com/DrSYakovlev/m32895-public-tb2-2026/tree/main/jupyter_notebooks)*
+
 **lesson_1.1.ipynb** - Introduction
 
 **lesson_1.2** - Python arithmetic operators, data types, comparison operators, logical operators, string data type, flow control with `if-else` condition, flow control with `if-elif-else` condition with in-class exercise
@@ -37,6 +40,10 @@
 **lesson_9.2** - Drop-in
 
 **lesson_10.1** - Logistic regression - Part I
+
+**lesson_10.2** - Drop-in
+
+**lesson_11.1** - Logistic regression - Part II
 
 
 N.b. In the lesson numbering, the 1<sup>st</sup> number corresponds to the week in the TB, the 2<sup>nd</sup> number corresponds to the lesson in a week (can only be 1 or 2). For instance, lesson_3.2 is the 2<sup>nd</sup> tutorial (Thursday) in the 3<sup>rd</sup> teaching week.
